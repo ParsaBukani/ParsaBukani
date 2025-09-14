@@ -42,7 +42,7 @@ For a detailed overview of my academic background, [📄 View my CV](https://dri
 
 
 <p align="center">
-  <em>Seeking motivated, trustworthy individuals to collaborate and build a __mastermind__ group</em> 
+  <em>Seeking motivated, trustworthy individuals to collaborate and build a mastermind group</em> 
 </p>
 
 <!--
