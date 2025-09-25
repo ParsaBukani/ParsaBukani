@@ -11,7 +11,6 @@ For a detailed overview of my academic background, [📄 View my CV](https://dri
 
 ## Current Focus  
 - **Advanced AI & ML methods**  
-- **Efficient neural architectures**  
 - **Applied data science projects**  
 - **Research** — co-authoring a work on **pico-programmable neurons** for accelerating DNNs  
 
