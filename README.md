@@ -5,7 +5,7 @@ _University of Tehran_
 _5th semester_    
 
 
-An aspiring computer engineer with strong interests in **Intelligent Systems**.  
+An aspiring computer engineer with strong interest in **Intelligent Systems**.  
 For a detailed overview of my academic background, [📄 View my CV](https://drive.google.com/file/d/1s2P51a3eQNUhiml1SX8SKQ7lbvGJc8oy/view?usp=sharing).  
 
 
