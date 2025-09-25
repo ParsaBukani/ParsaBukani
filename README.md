@@ -2,7 +2,7 @@
 
 _Computer Engineering Student_   
 _University of Tehran_    
-_5th semester_    
+
 
 
 An aspiring computer engineer with strong interest in **Intelligent Systems**.  
