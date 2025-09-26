@@ -13,7 +13,7 @@ For a detailed overview of my academic background, [📄 View my CV](https://dri
 - **Advanced AI & ML methods**  
 - **Applied data science projects**  
 - **Research** — co-authoring a work on **pico-programmable neurons** for accelerating DNNs  
-
+- Building a **Mastermind business group**
 
 ## Contact  
 
