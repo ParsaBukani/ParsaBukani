@@ -1,59 +1,20 @@
-# This is Parsa Kafshdouziboukani  
+# This is Parsa Kafshdouziboukani
 
-_Computer Engineering Student_   
-_University of Tehran_    
+*Computer Engineering Student · University of Tehran*  
+*Interested in entrepreneurship, intelligent systems, and AI agents*
 
+I’m interested in turning ideas into useful products and exploring how **AI agents** can expand what people and businesses can achieve.
 
+## Current Focus
 
-An aspiring computer engineer with strong interest in **Intelligent Systems**.  
-For a detailed overview of my academic background,~~📄 View my CV~~
+- **Fitnet** — shaping the vision and bringing together the team behind a fitness marketplace connecting people with gyms and fitness experiences. Development is underway, with **Phase 1 planned for launch in November 2026**.
+- **Mastermind** — laying the groundwork for a new venture centered on AI agents and their possibilities. More to come.
+- **AI & Machine Learning** — deepening my technical foundations in my **seventh semester** of Computer Engineering, alongside building products and exploring entrepreneurship.
 
+## Contact
 
-## Current Focus  
-- **Advanced AI & ML methods**   
-- **Research** — co-authoring a work on **pico-programmable neurons** for accelerating DNNs  
-- Building a **Mastermind business group**
-
-## Contact  
-
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://x.com/ParsaBukani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/ParsaBukani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:parsabukani@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Email" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="tel:+989146368286">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="Phone" width="30" height="30"/>
-  </a>
-</p>
-
-
-
+[X](https://x.com/ParsaBukani) · [Email](mailto:parsabukani@outlook.com)
 
 <p align="center">
-  <em>Seeking motivated, trustworthy individuals to collaborate and build a mastermind group</em> 
+  <em>Always open to exchanging ideas with driven, trustworthy people - and seeing what we might build together.</em>
 </p>
-
-<!--
-**ParsaBukani/ParsaBukani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
